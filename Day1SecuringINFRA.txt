@@ -1,7 +1,7 @@
 TASK1: COLLAPSED BACKBONE: BASIC LAYER3 CONFIGURATION.
 !@@@CORE SWITCH SA TAAS
 config t
-   hostname COREtaas-~~
+   hostname COREtaas-62
    enable secret pass
    service password-encryption
    no logging console
